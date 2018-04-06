@@ -1,0 +1,16 @@
+1) What do you think we were trying to get you to learn with this challenge?
+  Working with hashes, interacting across classes.
+
+2) Outline in words (at least 5-6 sentences) what your code is doing in order to
+solve this problem.
+
+  I created instance variables for type, participants and total cost so that the
+  information inside them can be dynamic.  I then confirmed this in my test file
+  by passing in different arguments to the cost value in the add participant
+  array as well as adding and subtracting participants.
+
+3) What was the most difficult portion of this for you?
+  Figuring out how to split the cost of an activity between participants.
+
+4) What came naturally to you?
+  Setting up the initialize method, attr_reader, and tests for attributes.
